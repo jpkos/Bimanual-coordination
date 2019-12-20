@@ -1,0 +1,13 @@
+,frame,event,target,event:target,hand,segment
+0,1,move,thread,move:thread,LH,
+1,2,move,thread,move:thread,LH,A
+2,3,move,thread,move:thread,LH,A
+3,4,grab,thread,grab:thread,LH,A
+4,5,grab,thread,grab:thread,LH,B
+5,6,grab,thread,grab:thread,LH,B
+6,1,grab,needle,grab:needle,RH,
+7,2,grab,needle,grab:needle,RH,A
+8,3,grab,needle,grab:needle,RH,A
+9,4,move,needle,move:needle,RH,A
+10,5,move,needle,move:needle,RH,B
+11,6,move,needle,move:needle,RH,B
